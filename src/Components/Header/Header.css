@@ -1,0 +1,18 @@
+.top-header nav{
+    background-color: white ;
+    justify-content: center ;
+    display: flex ;
+    text-align: center;
+    gap: 30px;
+}
+.top-header nav a{
+    color: #333;
+    text-decoration: none;
+}
+
+.top-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
