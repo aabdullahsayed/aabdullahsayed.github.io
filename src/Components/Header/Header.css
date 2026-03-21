@@ -2,8 +2,10 @@
     background-color: white ;
     justify-content: center ;
     display: flex ;
+    font-size: 35px;
     text-align: center;
     gap: 30px;
+    opacity: 0.50;
 }
 .top-header nav a{
     color: #333;

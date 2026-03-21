@@ -1,17 +1,19 @@
 h1{
     font-family: 'Comic Sans MS', 'Comic Sans', cursive;
     margin-bottom: 5px;
+    font-size: 50px;
 }
 
 h4{
     color: darkgrey;
     margin-bottom: 5px;
     margin-top: 0;
+    font-size: 30px;
     line-height: 1;
 }
 p{
     font-family: Droid Sans;
-    font-size: 24px;
+    font-size: 40px;
     font-weight: 400;
     text-align: left;
     margin-right: 20px;
@@ -22,8 +24,8 @@ p{
 img{
     display: flex;
     justify-content: right;
-    height: 150px;
-    width: 150px;
+    height: 300px;
+    width: 300px;
     border-radius: 50%;
     margin-top:0;
 }
