@@ -3,10 +3,9 @@ function Header(){
 
     return (
         <header class="top-header">
-            <h1>Abdullah Al Sayed</h1>
             <nav>
                     <a href="#">Home</a>
-                    <a href="#">About</a>
+                    <a href="#">Projects</a>
                     <a href="#">Contact</a>
                     <a href="#">blogs</a>
             </nav>
