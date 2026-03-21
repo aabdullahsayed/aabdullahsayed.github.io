@@ -1,0 +1,16 @@
+.icon {
+    display: flex;
+    justify-content: right;
+    margin-right: 45px;
+    gap: 15px;
+    margin-top: 10px;
+}
+.github-icon{
+    color: black;
+}
+.linkedin-icon{
+    color: #0077B5;
+}
+.envelope-icon{
+    color:silver;
+}
