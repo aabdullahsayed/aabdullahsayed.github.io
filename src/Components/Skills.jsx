@@ -3,19 +3,19 @@ import React from "react";
 const SKILL_CATEGORIES = [
   {
     title: "Backend & APIs",
-    chips: ["ASP.NET Core", "EF Core", "REST APIs", "JWT Auth", "Clean Architecture"],
+    chips: ["ASP.NET Core", "Spring boot", "REST APIs", "Clean Architecture"],
   },
   {
     title: "Bioinformatics",
     // TEMPLATE: replace with real bioinformatics tools/frameworks
     chips: [],
-    placeholders: ["[Add tools]", "[Add tools]"],
+    placeholders: ["[Computational Drug Discovery]", "[Biopython]"],
   },
   {
     title: "Automotive Software",
     // TEMPLATE: replace with real automotive software tools/standards
     chips: [],
-    placeholders: ["[Add tools]", "[Add tools]"],
+    placeholders: ["[Embedded]", "[ECU]", "[Telemetry]"],
   },
   {
     title: "Clean Code & Practices",
@@ -23,15 +23,15 @@ const SKILL_CATEGORIES = [
   },
   {
     title: "Data & ML",
-    chips: ["Python", "Scikit-Learn", "PyTorch", "ONNX", "Graph Neural Nets"],
+    chips: ["Python", "Scikit-Learn"],
   },
   {
     title: "Databases & Tooling",
-    chips: ["PostgreSQL", "SQL", "Git", "CLI Tooling"],
+    chips: [ "SQL", "Git", "Docker"],
   },
   {
     title: "Languages",
-    chips: ["C#", "Python", "SQL", "JavaScript"],
+    chips: ["Java","C#","Python"],
   },
 ];
 

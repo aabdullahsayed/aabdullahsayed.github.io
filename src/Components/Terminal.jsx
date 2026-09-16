@@ -1,10 +1,10 @@
 import React, { useEffect, useRef, useState } from "react";
 
 const LINES = [
-  { p: "whoami", o: "Abdullah Al Sayed — Backend Software Engineer" },
+  { p: "whoami", o: "Abdullah Al Sayed — Backend Engineer" },
   { p: "location", o: "Dhaka, Bangladesh" },
-  { p: "focus", o: "Bioinformatics / Automotive Software / Backend" },
-  { p: "principle", o: "Clean code, always" },
+  { p: "focus", o: "Backend Engineering/Bioinformatics" },
+  { p: "principle", o: "Clean code, Zero code smells" },
   { p: "status", o: "Open to backend, bioinformatics & automotive roles" },
 ];
 

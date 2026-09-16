@@ -3,9 +3,9 @@ import React, { useState } from "react";
 const EMAIL = "hello@example.com";
 
 const SOCIAL_LINKS = [
-  { label: "Email", href: `mailto:${EMAIL}` },
-  { label: "GitHub", href: "#" },
-  { label: "LinkedIn", href: "#" },
+  { label: "Email", href: `mailto:$abdullahsayed@tutamail.com` },
+  { label: "GitHub", href: "https://github.com/aabdullahsayed" },
+  { label: "LinkedIn", href: "https://www.linkedin.com/in/abdullahsayedchy/" },
   { label: "Resume / CV", href: "#" },
 ];
 

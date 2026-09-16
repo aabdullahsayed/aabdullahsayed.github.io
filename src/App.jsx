@@ -40,8 +40,6 @@ export default function App() {
       <main id="top">
         <div className="wrap">
           <div className="meta-row">
-            <span>PORTFOLIO — INDEX 2026</span>
-            <span>DHAKA, BANGLADESH</span>
           </div>
 
           <Hero />
